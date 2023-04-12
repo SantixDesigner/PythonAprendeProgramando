@@ -1,4 +1,5 @@
-nombre = "Santiago Nicolas Morillo Kovach"
-edad = 16
+nombre = "kakaroto"
+apodo = "goku"
+guerrero = "saiyajin"
 
-print (f"Hola, mi nombre es {nombre} y tengo {edad} anios!")
+print (f"Su nombre es {nombre}, aunque todos le dicen {apodo}, es un guerrero {guerrero}");
